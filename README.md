@@ -1,4 +1,4 @@
-# 🧠 20 Deep Learning Algorithms for Every AI Engineer
+# 20 Deep Learning Algorithms for Every AI Engineer
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Each algorithm has a dedicated Colab notebook for easy experimentation without l
 
 ---
 
-## 📂 Repository Structure
+## 📂 Topic Wise Learning Division
 
 ```
 20-dl-algorithms/
@@ -223,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Sereena Thomas & Joel Pawar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -233,20 +233,9 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions...
 ```
 
----
 
-## 📬 Contact & Support
 
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
 
 ## ⭐ Show Your Support
 
